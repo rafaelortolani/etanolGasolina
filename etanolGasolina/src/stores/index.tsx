@@ -1,5 +1,3 @@
-import { homeStore } from './home.store';
+import {homeStore} from './home.store';
 
-export {
-    homeStore
-}
+export {homeStore};
